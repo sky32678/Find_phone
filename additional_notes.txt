@@ -1,0 +1,1 @@
+For the next step, the model can be trained using more datasets. Also, images should be taken from various places with more colors and objects.
